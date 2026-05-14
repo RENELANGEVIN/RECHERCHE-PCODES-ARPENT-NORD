@@ -1,0 +1,9 @@
+{
+  "name": "Recherche Codes ArpentNord",
+  "short_name": "Codes AN",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0f13",
+  "theme_color": "#0d0f13",
+  "lang": "fr-CA"
+}
